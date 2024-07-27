@@ -1,0 +1,23 @@
+{
+  "name": "main_proj_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsx ./src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tsx": "^4.16.2",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^5.1.2",
+    "fuse.js": "^7.0.0",
+    "inquirer-autocomplete-standalone": "^0.8.1",
+    "sqlite3": "^5.1.7"
+  }
+}
